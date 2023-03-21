@@ -7,19 +7,19 @@ The workout app is a thorough fitness tool created to assist users in achieving 
 
 Step-wise description for SRS :
 
-Calendar
-Time 
-Gender specific exercise
-Profile
-Based on gender and BMI we customize the exercise recommendations
-Pre-built set of exercises
-An option user can create their set of exercises.
-For female, menstruation cycle specific calendar and planner to track that also.
-Video tutorials
-Options to select, whether abs or thighs etc.
-Beginner, intermediate , pro :- drop down menu.
-Step by step beginners guide.
-Options for Yoga, Warm-up, heavy workout , Zumba, aerobics etc.
-Mail ID of Users .
+1. Calendar
+2. Time 
+3. Gender specific exercise
+4. Profile
+5. Based on gender and BMI we customize the exercise recommendations
+6. Pre-built set of exercises
+7. An option user can create their set of exercises.
+8. For female, menstruation cycle specific calendar and planner to track that also.
+9. Video tutorials
+10. Options to select, whether abs or thighs etc.
+11. Beginner, intermediate , pro :- drop down menu.
+12. Step by step beginners guide.
+13. Options for Yoga, Warm-up, heavy workout , Zumba, aerobics etc.
+14. Mail ID of Users .
 
 
